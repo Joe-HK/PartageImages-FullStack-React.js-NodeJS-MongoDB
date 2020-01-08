@@ -103,10 +103,12 @@ app.get('*', (req, res) => {
   const sheetsRegistry = new SheetsRegistry()
   const theme = createMuiTheme({
     palette: {
+
+      
       primary: {
       light: '#52c7b8',
       main: '#4267B2',
-      dark: '#00675b',
+      dark: '#282828',
       contrastText: '#fff',
     },
     secondary: {

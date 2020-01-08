@@ -84,7 +84,7 @@ router.param('userId', userByID.userByID)
 
 
 //création d'un compte
-router.route('/api/users')
+router.route('/api/newuser')
   .post(signUp.create)
 
   

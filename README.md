@@ -4,7 +4,7 @@
 
 3-npm run development
 
-4-Cosulter sur http://localhost:5000
+4-Consulter sur http://localhost:5000
 
 dépendances requises:
 

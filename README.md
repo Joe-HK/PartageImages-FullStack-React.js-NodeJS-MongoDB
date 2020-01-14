@@ -1,13 +1,20 @@
-1-Cloner le projet 
+Dépendances requises:
 
-2-npm install 
-
-3-npm run development
-
-4-Consulter sur http://localhost:5000
-
-dépendances requises:
 
 mongoDB
 NodeJS
 
+
+
+Etapes à suivre
+
+
+Cloner le projet
+npm install
+npm install --global webpack
+npm run development
+Consulter sur http://localhost:5000
+
+
+
+Documentation http://localhost:5000/api/docs

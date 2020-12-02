@@ -1,9 +1,9 @@
-# Dépendances requises:
+# Web App de partage d'images de style instagram codée avec la stack (React.js, Node.js, Express.js, MongoDB etc..)
 
+# Dépendances requises:
 
 -  mongoDB
 -  NodeJS
-
 
 
 ## Etapes à suivre

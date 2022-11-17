@@ -29,7 +29,7 @@
     "file-loader": "5.0.2",
     "nodemon": "2.0.2",
     "webpack": "^4.41.4",
-    "webpack-cli": "3.3.10",
+    "webpack-cli": "3.3.12",
     "webpack-dev-middleware": "3.7.2",
     "webpack-hot-middleware": "2.25.0",
     "webpack-node-externals": "1.7.2"
